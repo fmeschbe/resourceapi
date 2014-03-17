@@ -1,4 +1,4 @@
 resourceapi
 ===========
 
-Marketing Cloud Resource API
+Resource API
